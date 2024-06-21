@@ -1,3 +1,3 @@
-# yahoo-comment-analysis-20240610
+# !!!DEPRECATED!!!
 
-https://takahiroanno2024.github.io/yahoo-comment-analysis-20240610/
+See https://github.com/takahiroanno2024/tokyoai-analysis
